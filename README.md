@@ -19,3 +19,6 @@ start projet in devlopment mode
 ```bash
     CREATE TABLE post (id INT PRIMARY KEY NOT NULL, title VARCHAR(100), content VARCHAR(100));
 ``````
+git config --global user.email joudkawtar1@gmail
+git config --global user.name "Kaoutar KJ"
+
